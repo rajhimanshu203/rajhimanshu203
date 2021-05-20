@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu Raj.
 - 👀 I’m interested in Web Development, Java and Research.
-- 🌱 I’m currently learning Full Stack Web Development and trying hands on Android development.
+- 🌱 I’m currently learning Full Stack Web Development and  on Android development.
 - 💞️ I’m looking to collaborate on any platform.
 - 📫 You can mail me at - rajhimanshu203@gmail.com
 
